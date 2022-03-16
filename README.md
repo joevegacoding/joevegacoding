@@ -1,7 +1,7 @@
 ### Hi there, I'm Joseph!  <img  alt="#" width="30px" src="https://github.com/joevegacoding/joevegacoding/blob/main/assets/hello.gif">
 
 
-## I'm a frontend engineer who is passionate about making the web accessible to everyone.
+## I'm a software engineer who is passionate about building products accessible to everyone.
 
 ### 💬 Ask me about:
 
