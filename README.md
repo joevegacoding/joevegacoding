@@ -31,7 +31,7 @@
 <img  align="center" alt="#" width="50px" src="https://github.com/joevegacoding/joevegacoding/blob/main/assets/react.png"> &nbsp; 
 <img  align="center" alt="#" width="30px" src="https://github.com/joevegacoding/joevegacoding/blob/main/assets/terminal.png">  &nbsp;
 
-### ⚡️ My goal for 2022:
+### ⚡️ My goal for 2023:
 - Improve my backend skills 
 - Contribute to open source projects and help others
 - Write tech related articles
