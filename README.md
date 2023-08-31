@@ -5,14 +5,14 @@
 
 ### 💬 Ask me about:
 
+- iOS Development
 - Frontend Web Development
 - Design
-- iOS Development
 
 ### 🦦 Hobbies:
 
 - Reading 📖
-- Biking 🚵‍♂️
+- Hiking 🥾
 - Hockey 🏒
 - Video Games 🎮
 - Cooking 🥘
