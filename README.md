@@ -19,7 +19,7 @@
 
 ###  Connect with me:
 
-[<img  alt="#" width="30px" src="https://github.com/joevegacoding/joevegacoding/blob/main/assets/linkedin.png">][Linkedin] &nbsp; &nbsp; [<img  alt="#" width="35px"  src="https://github.com/joevegacoding/joevegacoding/blob/main/assets/2021%20Twitter%20logo%20-%20blue.png">][Twitter] &nbsp; 
+[<img  alt="#" width="30px" src="https://github.com/joevegacoding/joevegacoding/blob/main/assets/linkedin.png">][Linkedin] &nbsp; &nbsp; [<img  alt="#" width="30px" src="https://github.com/joevegacoding/joevegacoding/blob/main/assets/logo-white.png">][X] &nbsp;
 
 ###  Languages and Tools:
 <img  align="center" alt="#" width="30px" src="https://github.com/joevegacoding/joevegacoding/blob/main/assets/swift.png">  &nbsp;
@@ -40,5 +40,5 @@
 
 
 [Linkedin]: https://www.linkedin.com/in/joseph-bouhanef-824798174/
-[Twitter]: https://twitter.com/JosephCodes_
+[X]: https://twitter.com/JosephCodes_
 
