@@ -26,7 +26,7 @@
 <img  align="center" alt="#" width="30px" src="https://github.com/joevegacoding/joevegacoding/blob/main/assets/javascript.png"> &nbsp;
 <img  align="center" alt="#" width="40px" src="https://github.com/joevegacoding/joevegacoding/blob/main/assets/htmllogo.png"> &nbsp; 
 <img  align="center"  alt="#" width="30px" src="https://github.com/joevegacoding/joevegacoding/blob/main/assets/css.png"> &nbsp; 
-<img  align="center" alt="#" width="35px" src="https://github.com/joevegacoding/joevegacoding/blob/main/assets/sass.png"> &nbsp; 
+<img  align="center" alt="#" width="60px" src="https://github.com/joevegacoding/joevegacoding/blob/main/assets/nodejsLight.png"> &nbsp; 
 <img  align="center"  alt="#" width="30px" src="https://github.com/joevegacoding/joevegacoding/blob/main/assets/vscode.png"> &nbsp; 
 <img  align="center" alt="#" width="50px" src="https://github.com/joevegacoding/joevegacoding/blob/main/assets/react.png"> &nbsp; 
 <img  align="center" alt="#" width="30px" src="https://github.com/joevegacoding/joevegacoding/blob/main/assets/terminal.png">  &nbsp;
