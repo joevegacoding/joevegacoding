@@ -4,10 +4,8 @@
 ## I'm a software engineer who is passionate about building products accessible to everyone.
 
 ### 💬 Ask me about:
-
-- iOS Development
 - Full-Stack Development
-- Design
+- iOS Development
 
 ### 🦦 Hobbies:
 
